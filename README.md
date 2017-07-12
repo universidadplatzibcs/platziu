@@ -15,3 +15,5 @@ De que trata, que hace, cómo lo hace, features, etc.
 [License]
 
 [Roadmap]
+
+[Agradecimientos]
